@@ -7,10 +7,11 @@ Traveluu Company responsive project
 
 
 
+![traveluu company](https://user-images.githubusercontent.com/87598302/148117225-135f8aeb-deba-483d-9af0-b5fbf8675160.png)
 
 
 
-![traveluu company](https://user-images.githubusercontent.com/87598302/147711971-966f181a-ad5a-4dfd-92ae-5b03452975e0.png)
+
 
 
 
